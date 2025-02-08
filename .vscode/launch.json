@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "ACTIVITY 1_f53d2281"
+        },
+        {
+            "type": "java",
+            "name": "what",
+            "request": "launch",
+            "mainClass": "what",
+            "projectName": "ACTIVITY 1_f53d2281"
+        },
+        {
+            "type": "java",
+            "name": "Animal",
+            "request": "launch",
+            "mainClass": "Animal",
+            "projectName": "ACTIVITY 1_f53d2281"
+        },
+        {
+            "type": "java",
+            "name": "qwerty",
+            "request": "launch",
+            "mainClass": "qwerty",
+            "projectName": "ACTIVITY 1_f53d2281"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "ACTIVITY 1_f53d2281"
+        },
+        {
+            "type": "java",
+            "name": "whatIlearned",
+            "request": "launch",
+            "mainClass": "whatIlearned",
+            "projectName": "ACTIVITY 1_f53d2281"
+        },
+        {
+            "type": "java",
             "name": "ReversingWord",
             "request": "launch",
             "mainClass": "ReversingWord",
@@ -30,6 +72,18 @@
             "request": "launch",
             "name": "Open myWebsite.html",
             "file": "c:\\Program Projects\\ACTIVITY 1\\myWebsite.html"
+        },
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open MODULE10.html",
+            "file": "c:\\Program Projects\\ACTIVITY 1\\MODULE10.html"
+        },
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open MODULE11.html",
+            "file": "C:\\Program Projects\\ACTIVITY 1\\MODULE 11.html"
         }
     ]
 }
